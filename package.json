@@ -1,0 +1,25 @@
+{
+  "name": "backend-websocket-live-attenndance-system",
+  "version": "1.0.0",
+  "description": "learning websockets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelkrati00/backend-websocket-live-attenndance-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/patelkrati00/backend-websocket-live-attenndance-system/issues"
+  },
+  "homepage": "https://github.com/patelkrati00/backend-websocket-live-attenndance-system#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
